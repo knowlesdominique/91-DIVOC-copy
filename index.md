@@ -5,6 +5,9 @@ layout: home
 <h3>Projects</h3>
 
 <ul>
+<li>
+    #03: <a href="TEST/">COVID-19 Data for Specific States</a>
+  </li>
   <li>
     #02: <a href="pages/covid-by-your-locations/">COVID-19 Data for Locations of People You Love</a>
   </li>
